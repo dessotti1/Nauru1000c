@@ -38,8 +38,8 @@ Este repositório contém instruções para rodar uma simulação de um drone VT
 2. **Rodar o código drone-control.py;**
 
     ```bash
-    cd /nauru;
-    python3 drone-control.py;
+    cd /nauru
+    python3 drone-control.py
     ```
 
 3. **No terminal, aparecem as informações para controle (‘t’ para takeoff, ‘l’ para pouso, dentre outros).**
@@ -50,7 +50,7 @@ Este repositório contém instruções para rodar uma simulação de um drone VT
 2. **Rode esse arquivo;**
 
     ```bash
-    cd /nauru;
+    cd /nauru
     python3 sensor-data.py
     ```
     

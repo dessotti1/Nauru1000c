@@ -8,7 +8,7 @@ Este repositório contém instruções para rodar uma simulação de um drone VT
 ## Pré-requisitos
 
 1. **Instalar ROS e Gazebo:**
-   - Caso ainda não os tenha, siga as orientações de instalação da [wiki do ROS](https://wiki.ros.org/ROS/Installation).
+   - Caso ainda não os tenha, siga as orientações de instalação da [wiki do ROS](https://wiki.ros.org/noetic/Installation).
 
 2. **Instalar o Firmware do PX4 Autopilot:**
    - O modelo escolhido para representar nosso drone é o `standard_vtol` e está contido na PX4.

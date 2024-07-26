@@ -83,6 +83,9 @@ Vale ressaltar que as duas simulações mais completas buscaram se aproximar do 
 3. **No Gazebo, pode-se observar a simulação do drone voando. Ao final da simulação será gerado um gráfico com as velocidades medidas pelos sensores do drone durante a simulação.**
 
 # Autores
-- Carlos Nery Ribeiro
-- Gabriel Ribeiro Rodrigues Dessotti
+- Carlos Nery Ribeiro - 12547698
+- Gabriel Ribeiro Rodrigues Dessotti - 12547228
+- Lucas Carvalho Freiberger Stapf - 1180059
+- Edson Jose Brumatti Junior - 9880169
+- Lucas Bosso de Mello - 14590670
 
